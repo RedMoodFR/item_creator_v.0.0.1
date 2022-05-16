@@ -10,4 +10,4 @@ Those are the objectives of item_creator library in python :
 - Identify & manipulate words (gender, tense, mood, person, etc.)
 - Identify & manipulate sentences (nominal groups, verbal groups, etc.)
 
-The library use mlconjug3 & spacy to identify & manipulate words.
+The library use [mlconjug3](https://github.com/SekouDiaoNlp/mlconjug3) & [spacy](https://github.com/explosion/spaCy) to identify & manipulate words.
