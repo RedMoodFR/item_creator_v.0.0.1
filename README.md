@@ -1,5 +1,6 @@
 # item_creator_v.0.0.1
-A project of python library to generate psychometric items\n
+A project of python library to generate psychometric items
+
 It's my first library so be gentle i'll make mistakes (actually I don't even know how to create and share a library).
 
 Those are the objectives of item_creator library in python :
