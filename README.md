@@ -9,3 +9,5 @@ Those are the objectives of item_creator library in python :
 - use patterns as intermediates between logical sentences and sentences.
 - Identify & manipulate words (gender, tense, mood, person, etc.)
 - Identify & manipulate sentences (nominal groups, verbal groups, etc.)
+
+The library use mlconjug3 & spacy to identify & manipulate words.
